@@ -1,6 +1,8 @@
 # Benchmark Monitoring
 
-This project, named **Benchmark Monitoring**, is a web application built using React, Vite.js, TypeScript, and Tailwind CSS. It serves as a platform for Benchmarking Monitoring, providing insights and data visualization for various key performance indicators (KPIs).
+This project, named **Benchmark Monitoring** is on of Dashboard Monitoring Key Performa Indicator (KPI) data for Indoensia Telecomunication providers.
+.this web application built using React, Vite.js, TypeScript, Tailwind CSS and UI Liblary (E-chart, Mapbox, etc.). 
+It serves as a platform for Benchmarking Monitoring, providing insights and data visualization for various key performance indicators (KPIs).
 
 ## Getting Started
 
