@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+       "Region",
+       "Kabupaten",
+       "Kecamatan"
+    ],
+    "page": null,
+    "errors": []
+ }

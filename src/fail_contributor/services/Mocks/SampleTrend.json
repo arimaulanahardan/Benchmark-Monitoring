@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "category": [
+            "202315",
+            "202316",
+            "202317",
+            "202318",
+            "202319",
+            "202320"
+        ],
+        "series": [
+            {
+                "name": "sample_gamematch",
+                "color": "#FFFF00",
+                "data": [
+                    30916,
+                    29543,
+                    26285,
+                    23927,
+                    31210,
+                    31071
+                ],
+                "percentage": []
+            }
+        ]
+    },
+    "page": null,
+    "errors": []
+}

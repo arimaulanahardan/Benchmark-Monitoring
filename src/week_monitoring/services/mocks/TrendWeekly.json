@@ -1,0 +1,732 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "category": [
+            202331,
+            202332,
+            202333,
+            202334,
+            202335,
+            202336,
+            202337,
+            202338,
+            202339,
+            202340
+        ],
+        "kpi": [
+            "good_quality",
+            "game_parameter",
+            "video_score_netflix",
+            "avg_latency",
+            "avg_jitter",
+            "avg_packetloss",
+            "avg_download_throughput",
+            "avg_upload_throughput",
+            "excellent_quality",
+            "good_coverage",
+            "coverage_share",
+            "sample"
+        ],
+        "series": {
+            "good_quality": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        96.08,
+                        100,
+                        83.45,
+                        97.62,
+                        88.73,
+                        91.24,
+                        95.55,
+                        89.12
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        100,
+                        92.34,
+                        null,
+                        87.21,
+                        90.76,
+                        94.12,
+                        null
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        92.86,
+                        85.19,
+                        89.45,
+                        94.23,
+                        null,
+                        90.98,
+                        93.67,
+                        87.34
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "game_parameter": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        90.2,
+                        100,
+                        92.76,
+                        91.45,
+                        88.99,
+                        94.12,
+                        null,
+                        90.67
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        100,
+                        93.12,
+                        null,
+                        89.56,
+                        null,
+                        92.87,
+                        88.23
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        100,
+                        92.59,
+                        89.34,
+                        95.23,
+                        87.67,
+                        90.45,
+                        94.09,
+                        null
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "video_score_netflix": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "avg_latency": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        21.9,
+                        20.57,
+                        19.34,
+                        22.11,
+                        20.76,
+                        23.45,
+                        21.89,
+                        24.67
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        33.31,
+                        32.45,
+                        null,
+                        34.21,
+                        null,
+                        31.56,
+                        30.98
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        20.84,
+                        28.76,
+                        27.45,
+                        29.23,
+                        null,
+                        25.98,
+                        23.67,
+                        26.34
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "avg_jitter": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        5.97,
+                        5.62,
+                        6.34,
+                        5.45,
+                        6.21,
+                        5.76,
+                        5.89,
+                        6.67
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        6.7,
+                        5.98,
+                        null,
+                        6.34,
+                        null,
+                        6.12,
+                        6.45
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        3.33,
+                        5.37,
+                        4.67,
+                        5.21,
+                        null,
+                        4.98,
+                        4.45,
+                        5.67
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "avg_packetloss": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        0.06,
+                        0,
+                        0.12,
+                        0.08,
+                        0.05,
+                        0.09,
+                        0.07,
+                        0.04
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        0,
+                        0.11,
+                        null,
+                        0.09,
+                        null,
+                        0.06,
+                        0.1
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        0,
+                        0.22,
+                        0.15,
+                        0.18,
+                        null,
+                        0.14,
+                        0.12,
+                        0.2
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "avg_download_throughput": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        18544.72,
+                        21916.94,
+                        19234.56,
+                        20123.67,
+                        19876.45,
+                        21134.21,
+                        18654.89,
+                        19567.23
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        12902.59,
+                        13789.45,
+                        null,
+                        14234.67,
+                        null,
+                        13567.34,
+                        13890.12
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        20898.79,
+                        17582.63,
+                        19345.21,
+                        18567.89,
+                        null,
+                        19987.45,
+                        18678.34,
+                        17900.56
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "avg_upload_throughput": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        10299.36,
+                        11920.02,
+                        10876.45,
+                        11234.89,
+                        10987.56,
+                        10567.23,
+                        10945.89,
+                        10456.67
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        6723.11,
+                        6987.45,
+                        null,
+                        7123.56,
+                        null,
+                        6867.34,
+                        6945.21
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        12173.15,
+                        15287.5,
+                        13900.67,
+                        14345.89,
+                        null,
+                        13678.12,
+                        13890.23,
+                        14234.56
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "excellent_quality": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        78.43,
+                        95.83,
+                        89.45,
+                        91.34,
+                        94.67,
+                        88.12,
+                        92.56,
+                        87.23
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        null,
+                        63.64,
+                        70.12,
+                        null,
+                        74.45,
+                        null,
+                        69.34,
+                        71.89
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        78.57,
+                        74.07,
+                        73.45,
+                        72.56,
+                        null,
+                        75.34,
+                        76.89,
+                        71.45
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "good_coverage": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        25,
+                        20,
+                        21,
+                        19,
+                        22,
+                        18,
+                        23,
+                        20
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        33.33,
+                        null,
+                        28.45,
+                        null,
+                        30.67,
+                        29.23,
+                        null,
+                        32.12
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        33.33,
+                        40,
+                        39.12,
+                        38.23,
+                        null,
+                        37.56,
+                        38.89,
+                        35.67
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "coverage_share": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        25,
+                        20,
+                        21,
+                        19,
+                        22,
+                        18,
+                        23,
+                        20
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        33.33,
+                        null,
+                        28.45,
+                        null,
+                        30.67,
+                        29.23,
+                        null,
+                        32.12
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        66.67,
+                        100,
+                        92.34,
+                        95.45,
+                        null,
+                        98.76,
+                        94.56,
+                        97.12
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ],
+            "sample": [
+                {
+                    "name": "Telkomsel",
+                    "color": "#e21542",
+                    "data": [
+                        526,
+                        312,
+                        489,
+                        541,
+                        503,
+                        512,
+                        535,
+                        498
+                    ]
+                },
+                {
+                    "name": "XL",
+                    "color": "#44adff",
+                    "data": [
+                        372,
+                        431,
+                        412,
+                        396,
+                        428,
+                        439,
+                        405,
+                        418
+                    ]
+                },
+                {
+                    "name": "Indosat Ooredoo + 3",
+                    "color": "#f0cb01",
+                    "data": [
+                        470,
+                        785,
+                        652,
+                        704,
+                        698,
+                        672,
+                        686,
+                        713
+                    ]
+                },
+                {
+                    "name": "Smartfren",
+                    "color": "#FD56D8",
+                    "data": [
+                        11,
+                        1,
+                        7,
+                        9,
+                        5,
+                        8,
+                        6,
+                        10
+                    ]
+                }
+            ]
+        }
+    },
+    "page": null,
+    "errors": []
+}

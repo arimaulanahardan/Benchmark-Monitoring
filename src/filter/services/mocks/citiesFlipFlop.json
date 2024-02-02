@@ -1,0 +1,2129 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "label": "SUMBAGUT",
+            "options": [
+                {
+                    "label": "ACEH BARAT",
+                    "value": "ACEH BARAT"
+                },
+                {
+                    "label": "ACEH BARAT DAYA",
+                    "value": "ACEH BARAT DAYA"
+                },
+                {
+                    "label": "ACEH BESAR",
+                    "value": "ACEH BESAR"
+                },
+                {
+                    "label": "ACEH JAYA",
+                    "value": "ACEH JAYA"
+                },
+                {
+                    "label": "ACEH SELATAN",
+                    "value": "ACEH SELATAN"
+                },
+                {
+                    "label": "ACEH SINGKIL",
+                    "value": "ACEH SINGKIL"
+                },
+                {
+                    "label": "ACEH TAMIANG",
+                    "value": "ACEH TAMIANG"
+                },
+                {
+                    "label": "ACEH TENGAH",
+                    "value": "ACEH TENGAH"
+                },
+                {
+                    "label": "ACEH TENGGARA",
+                    "value": "ACEH TENGGARA"
+                },
+                {
+                    "label": "ACEH TIMUR",
+                    "value": "ACEH TIMUR"
+                },
+                {
+                    "label": "ACEH UTARA",
+                    "value": "ACEH UTARA"
+                },
+                {
+                    "label": "ASAHAN",
+                    "value": "ASAHAN"
+                },
+                {
+                    "label": "BATU BARA",
+                    "value": "BATU BARA"
+                },
+                {
+                    "label": "BENER MERIAH",
+                    "value": "BENER MERIAH"
+                },
+                {
+                    "label": "BIREUEN",
+                    "value": "BIREUEN"
+                },
+                {
+                    "label": "DAIRI",
+                    "value": "DAIRI"
+                },
+                {
+                    "label": "DELI SERDANG",
+                    "value": "DELI SERDANG"
+                },
+                {
+                    "label": "GAYO LUES",
+                    "value": "GAYO LUES"
+                },
+                {
+                    "label": "HUMBANG HASUNDUTAN",
+                    "value": "HUMBANG HASUNDUTAN"
+                },
+                {
+                    "label": "KARO",
+                    "value": "KARO"
+                },
+                {
+                    "label": "KOTA BANDA ACEH",
+                    "value": "KOTA BANDA ACEH"
+                },
+                {
+                    "label": "KOTA BINJAI",
+                    "value": "KOTA BINJAI"
+                },
+                {
+                    "label": "KOTA GUNUNGSITOLI",
+                    "value": "KOTA GUNUNGSITOLI"
+                },
+                {
+                    "label": "KOTA LANGSA",
+                    "value": "KOTA LANGSA"
+                },
+                {
+                    "label": "KOTA LHOKSEUMAWE",
+                    "value": "KOTA LHOKSEUMAWE"
+                },
+                {
+                    "label": "KOTA MEDAN",
+                    "value": "KOTA MEDAN"
+                },
+                {
+                    "label": "KOTA PADANGSIDIMPUAN",
+                    "value": "KOTA PADANGSIDIMPUAN"
+                },
+                {
+                    "label": "KOTA PEMATANG SIANTAR",
+                    "value": "KOTA PEMATANG SIANTAR"
+                },
+                {
+                    "label": "KOTA SABANG",
+                    "value": "KOTA SABANG"
+                },
+                {
+                    "label": "KOTA SIBOLGA",
+                    "value": "KOTA SIBOLGA"
+                },
+                {
+                    "label": "KOTA SUBULUSSALAM",
+                    "value": "KOTA SUBULUSSALAM"
+                },
+                {
+                    "label": "KOTA TANJUNG BALAI",
+                    "value": "KOTA TANJUNG BALAI"
+                },
+                {
+                    "label": "KOTA TEBING TINGGI",
+                    "value": "KOTA TEBING TINGGI"
+                },
+                {
+                    "label": "LABUHAN BATU",
+                    "value": "LABUHAN BATU"
+                },
+                {
+                    "label": "LABUHAN BATU SELATAN",
+                    "value": "LABUHAN BATU SELATAN"
+                },
+                {
+                    "label": "LABUHAN BATU UTARA",
+                    "value": "LABUHAN BATU UTARA"
+                },
+                {
+                    "label": "LANGKAT",
+                    "value": "LANGKAT"
+                },
+                {
+                    "label": "MANDAILING NATAL",
+                    "value": "MANDAILING NATAL"
+                },
+                {
+                    "label": "NAGAN RAYA",
+                    "value": "NAGAN RAYA"
+                },
+                {
+                    "label": "NIAS",
+                    "value": "NIAS"
+                },
+                {
+                    "label": "NIAS BARAT",
+                    "value": "NIAS BARAT"
+                },
+                {
+                    "label": "NIAS SELATAN",
+                    "value": "NIAS SELATAN"
+                },
+                {
+                    "label": "NIAS UTARA",
+                    "value": "NIAS UTARA"
+                },
+                {
+                    "label": "PADANG LAWAS",
+                    "value": "PADANG LAWAS"
+                },
+                {
+                    "label": "PADANG LAWAS UTARA",
+                    "value": "PADANG LAWAS UTARA"
+                },
+                {
+                    "label": "PAKPAK BHARAT",
+                    "value": "PAKPAK BHARAT"
+                },
+                {
+                    "label": "PIDIE",
+                    "value": "PIDIE"
+                },
+                {
+                    "label": "PIDIE JAYA",
+                    "value": "PIDIE JAYA"
+                },
+                {
+                    "label": "SAMOSIR",
+                    "value": "SAMOSIR"
+                },
+                {
+                    "label": "SERDANG BEDAGAI",
+                    "value": "SERDANG BEDAGAI"
+                },
+                {
+                    "label": "SIMALUNGUN",
+                    "value": "SIMALUNGUN"
+                },
+                {
+                    "label": "SIMEULUE",
+                    "value": "SIMEULUE"
+                },
+                {
+                    "label": "TAPANULI SELATAN",
+                    "value": "TAPANULI SELATAN"
+                },
+                {
+                    "label": "TAPANULI TENGAH",
+                    "value": "TAPANULI TENGAH"
+                },
+                {
+                    "label": "TAPANULI UTARA",
+                    "value": "TAPANULI UTARA"
+                },
+                {
+                    "label": "TOBA SAMOSIR",
+                    "value": "TOBA SAMOSIR"
+                }
+            ]
+        },
+        {
+            "label": "SUMBAGTENG",
+            "options": [
+                {
+                    "label": "AGAM",
+                    "value": "AGAM"
+                },
+                {
+                    "label": "BENGKALIS",
+                    "value": "BENGKALIS"
+                },
+                {
+                    "label": "BINTAN",
+                    "value": "BINTAN"
+                },
+                {
+                    "label": "DHARMASRAYA",
+                    "value": "DHARMASRAYA"
+                },
+                {
+                    "label": "INDRAGIRI HILIR",
+                    "value": "INDRAGIRI HILIR"
+                },
+                {
+                    "label": "INDRAGIRI HULU",
+                    "value": "INDRAGIRI HULU"
+                },
+                {
+                    "label": "KAMPAR",
+                    "value": "KAMPAR"
+                },
+                {
+                    "label": "KARIMUN",
+                    "value": "KARIMUN"
+                },
+                {
+                    "label": "KEPULAUAN ANAMBAS",
+                    "value": "KEPULAUAN ANAMBAS"
+                },
+                {
+                    "label": "KEPULAUAN MENTAWAI",
+                    "value": "KEPULAUAN MENTAWAI"
+                },
+                {
+                    "label": "KEPULAUAN MERANTI",
+                    "value": "KEPULAUAN MERANTI"
+                },
+                {
+                    "label": "KOTA BATAM",
+                    "value": "KOTA BATAM"
+                },
+                {
+                    "label": "KOTA BUKITTINGGI",
+                    "value": "KOTA BUKITTINGGI"
+                },
+                {
+                    "label": "KOTA DUMAI",
+                    "value": "KOTA DUMAI"
+                },
+                {
+                    "label": "KOTA PADANG",
+                    "value": "KOTA PADANG"
+                },
+                {
+                    "label": "KOTA PADANG PANJANG",
+                    "value": "KOTA PADANG PANJANG"
+                },
+                {
+                    "label": "KOTA PARIAMAN",
+                    "value": "KOTA PARIAMAN"
+                },
+                {
+                    "label": "KOTA PAYAKUMBUH",
+                    "value": "KOTA PAYAKUMBUH"
+                },
+                {
+                    "label": "KOTA PEKANBARU",
+                    "value": "KOTA PEKANBARU"
+                },
+                {
+                    "label": "KOTA SAWAH LUNTO",
+                    "value": "KOTA SAWAH LUNTO"
+                },
+                {
+                    "label": "KOTA SOLOK",
+                    "value": "KOTA SOLOK"
+                },
+                {
+                    "label": "KOTA TANJUNG PINANG",
+                    "value": "KOTA TANJUNG PINANG"
+                },
+                {
+                    "label": "KUANTAN SINGINGI",
+                    "value": "KUANTAN SINGINGI"
+                },
+                {
+                    "label": "LIMA PULUH KOTA",
+                    "value": "LIMA PULUH KOTA"
+                },
+                {
+                    "label": "LINGGA",
+                    "value": "LINGGA"
+                },
+                {
+                    "label": "NATUNA",
+                    "value": "NATUNA"
+                },
+                {
+                    "label": "PADANG PARIAMAN",
+                    "value": "PADANG PARIAMAN"
+                },
+                {
+                    "label": "PASAMAN",
+                    "value": "PASAMAN"
+                },
+                {
+                    "label": "PASAMAN BARAT",
+                    "value": "PASAMAN BARAT"
+                },
+                {
+                    "label": "PELALAWAN",
+                    "value": "PELALAWAN"
+                },
+                {
+                    "label": "PESISIR SELATAN",
+                    "value": "PESISIR SELATAN"
+                },
+                {
+                    "label": "ROKAN HILIR",
+                    "value": "ROKAN HILIR"
+                },
+                {
+                    "label": "ROKAN HULU",
+                    "value": "ROKAN HULU"
+                },
+                {
+                    "label": "S I A K",
+                    "value": "S I A K"
+                },
+                {
+                    "label": "SIJUNJUNG",
+                    "value": "SIJUNJUNG"
+                },
+                {
+                    "label": "SOLOK",
+                    "value": "SOLOK"
+                },
+                {
+                    "label": "SOLOK SELATAN",
+                    "value": "SOLOK SELATAN"
+                },
+                {
+                    "label": "TANAH DATAR",
+                    "value": "TANAH DATAR"
+                }
+            ]
+        },
+        {
+            "label": "SUMBAGSEL",
+            "options": [
+                {
+                    "label": "BANGKA",
+                    "value": "BANGKA"
+                },
+                {
+                    "label": "BANGKA BARAT",
+                    "value": "BANGKA BARAT"
+                },
+                {
+                    "label": "BANGKA SELATAN",
+                    "value": "BANGKA SELATAN"
+                },
+                {
+                    "label": "BANGKA TENGAH",
+                    "value": "BANGKA TENGAH"
+                },
+                {
+                    "label": "BANYU ASIN",
+                    "value": "BANYU ASIN"
+                },
+                {
+                    "label": "BATANG HARI",
+                    "value": "BATANG HARI"
+                },
+                {
+                    "label": "BELITUNG",
+                    "value": "BELITUNG"
+                },
+                {
+                    "label": "BELITUNG TIMUR",
+                    "value": "BELITUNG TIMUR"
+                },
+                {
+                    "label": "BENGKULU SELATAN",
+                    "value": "BENGKULU SELATAN"
+                },
+                {
+                    "label": "BENGKULU TENGAH",
+                    "value": "BENGKULU TENGAH"
+                },
+                {
+                    "label": "BENGKULU UTARA",
+                    "value": "BENGKULU UTARA"
+                },
+                {
+                    "label": "BUNGO",
+                    "value": "BUNGO"
+                },
+                {
+                    "label": "EMPAT LAWANG",
+                    "value": "EMPAT LAWANG"
+                },
+                {
+                    "label": "KAUR",
+                    "value": "KAUR"
+                },
+                {
+                    "label": "KEPAHIANG",
+                    "value": "KEPAHIANG"
+                },
+                {
+                    "label": "KERINCI",
+                    "value": "KERINCI"
+                },
+                {
+                    "label": "KOTA BANDAR LAMPUNG",
+                    "value": "KOTA BANDAR LAMPUNG"
+                },
+                {
+                    "label": "KOTA BENGKULU",
+                    "value": "KOTA BENGKULU"
+                },
+                {
+                    "label": "KOTA JAMBI",
+                    "value": "KOTA JAMBI"
+                },
+                {
+                    "label": "KOTA LUBUKLINGGAU",
+                    "value": "KOTA LUBUKLINGGAU"
+                },
+                {
+                    "label": "KOTA METRO",
+                    "value": "KOTA METRO"
+                },
+                {
+                    "label": "KOTA PAGAR ALAM",
+                    "value": "KOTA PAGAR ALAM"
+                },
+                {
+                    "label": "KOTA PALEMBANG",
+                    "value": "KOTA PALEMBANG"
+                },
+                {
+                    "label": "KOTA PANGKAL PINANG",
+                    "value": "KOTA PANGKAL PINANG"
+                },
+                {
+                    "label": "KOTA PRABUMULIH",
+                    "value": "KOTA PRABUMULIH"
+                },
+                {
+                    "label": "KOTA SUNGAI PENUH",
+                    "value": "KOTA SUNGAI PENUH"
+                },
+                {
+                    "label": "LAHAT",
+                    "value": "LAHAT"
+                },
+                {
+                    "label": "LAMPUNG BARAT",
+                    "value": "LAMPUNG BARAT"
+                },
+                {
+                    "label": "LAMPUNG SELATAN",
+                    "value": "LAMPUNG SELATAN"
+                },
+                {
+                    "label": "LAMPUNG TENGAH",
+                    "value": "LAMPUNG TENGAH"
+                },
+                {
+                    "label": "LAMPUNG TIMUR",
+                    "value": "LAMPUNG TIMUR"
+                },
+                {
+                    "label": "LAMPUNG UTARA",
+                    "value": "LAMPUNG UTARA"
+                },
+                {
+                    "label": "LEBONG",
+                    "value": "LEBONG"
+                },
+                {
+                    "label": "MERANGIN",
+                    "value": "MERANGIN"
+                },
+                {
+                    "label": "MESUJI",
+                    "value": "MESUJI"
+                },
+                {
+                    "label": "MUARA ENIM",
+                    "value": "MUARA ENIM"
+                },
+                {
+                    "label": "MUARO JAMBI",
+                    "value": "MUARO JAMBI"
+                },
+                {
+                    "label": "MUKOMUKO",
+                    "value": "MUKOMUKO"
+                },
+                {
+                    "label": "MUSI BANYUASIN",
+                    "value": "MUSI BANYUASIN"
+                },
+                {
+                    "label": "MUSI RAWAS",
+                    "value": "MUSI RAWAS"
+                },
+                {
+                    "label": "MUSI RAWAS UTARA",
+                    "value": "MUSI RAWAS UTARA"
+                },
+                {
+                    "label": "OGAN ILIR",
+                    "value": "OGAN ILIR"
+                },
+                {
+                    "label": "OGAN KOMERING ILIR",
+                    "value": "OGAN KOMERING ILIR"
+                },
+                {
+                    "label": "OGAN KOMERING ULU",
+                    "value": "OGAN KOMERING ULU"
+                },
+                {
+                    "label": "OGAN KOMERING ULU SELATAN",
+                    "value": "OGAN KOMERING ULU SELATAN"
+                },
+                {
+                    "label": "OGAN KOMERING ULU TIMUR",
+                    "value": "OGAN KOMERING ULU TIMUR"
+                },
+                {
+                    "label": "PENUKAL ABAB LEMATANG ILIR",
+                    "value": "PENUKAL ABAB LEMATANG ILIR"
+                },
+                {
+                    "label": "PESAWARAN",
+                    "value": "PESAWARAN"
+                },
+                {
+                    "label": "PESISIR BARAT",
+                    "value": "PESISIR BARAT"
+                },
+                {
+                    "label": "PRINGSEWU",
+                    "value": "PRINGSEWU"
+                },
+                {
+                    "label": "REJANG LEBONG",
+                    "value": "REJANG LEBONG"
+                },
+                {
+                    "label": "SAROLANGUN",
+                    "value": "SAROLANGUN"
+                },
+                {
+                    "label": "SELUMA",
+                    "value": "SELUMA"
+                },
+                {
+                    "label": "TANGGAMUS",
+                    "value": "TANGGAMUS"
+                },
+                {
+                    "label": "TANJUNG JABUNG BARAT",
+                    "value": "TANJUNG JABUNG BARAT"
+                },
+                {
+                    "label": "TANJUNG JABUNG TIMUR",
+                    "value": "TANJUNG JABUNG TIMUR"
+                },
+                {
+                    "label": "TEBO",
+                    "value": "TEBO"
+                },
+                {
+                    "label": "TULANGBAWANG",
+                    "value": "TULANGBAWANG"
+                },
+                {
+                    "label": "TULANG BAWANG BARAT",
+                    "value": "TULANG BAWANG BARAT"
+                },
+                {
+                    "label": "WAY KANAN",
+                    "value": "WAY KANAN"
+                }
+            ]
+        },
+        {
+            "label": "CENTRAL JABOTABEK",
+            "options": [
+                {
+                    "label": "KEPULAUAN SERIBU",
+                    "value": "KEPULAUAN SERIBU"
+                },
+                {
+                    "label": "KOTA JAKARTA BARAT",
+                    "value": "KOTA JAKARTA BARAT"
+                },
+                {
+                    "label": "KOTA JAKARTA PUSAT",
+                    "value": "KOTA JAKARTA PUSAT"
+                },
+                {
+                    "label": "KOTA JAKARTA SELATAN",
+                    "value": "KOTA JAKARTA SELATAN"
+                },
+                {
+                    "label": "KOTA JAKARTA TIMUR",
+                    "value": "KOTA JAKARTA TIMUR"
+                },
+                {
+                    "label": "KOTA JAKARTA UTARA",
+                    "value": "KOTA JAKARTA UTARA"
+                }
+            ]
+        },
+        {
+            "label": "EASTERN JABOTABEK",
+            "options": [
+                {
+                    "label": "BEKASI",
+                    "value": "BEKASI"
+                },
+                {
+                    "label": "BOGOR",
+                    "value": "BOGOR"
+                },
+                {
+                    "label": "KARAWANG",
+                    "value": "KARAWANG"
+                },
+                {
+                    "label": "KOTA BEKASI",
+                    "value": "KOTA BEKASI"
+                },
+                {
+                    "label": "KOTA BOGOR",
+                    "value": "KOTA BOGOR"
+                },
+                {
+                    "label": "KOTA DEPOK",
+                    "value": "KOTA DEPOK"
+                },
+                {
+                    "label": "KOTA SUKABUMI",
+                    "value": "KOTA SUKABUMI"
+                },
+                {
+                    "label": "PURWAKARTA",
+                    "value": "PURWAKARTA"
+                },
+                {
+                    "label": "SUKABUMI",
+                    "value": "SUKABUMI"
+                }
+            ]
+        },
+        {
+            "label": "WESTERN JABOTABEK",
+            "options": [
+                {
+                    "label": "KOTA CILEGON",
+                    "value": "KOTA CILEGON"
+                },
+                {
+                    "label": "KOTA SERANG",
+                    "value": "KOTA SERANG"
+                },
+                {
+                    "label": "KOTA TANGERANG",
+                    "value": "KOTA TANGERANG"
+                },
+                {
+                    "label": "KOTA TANGERANG SELATAN",
+                    "value": "KOTA TANGERANG SELATAN"
+                },
+                {
+                    "label": "LEBAK",
+                    "value": "LEBAK"
+                },
+                {
+                    "label": "PANDEGLANG",
+                    "value": "PANDEGLANG"
+                },
+                {
+                    "label": "SERANG",
+                    "value": "SERANG"
+                },
+                {
+                    "label": "TANGERANG",
+                    "value": "TANGERANG"
+                }
+            ]
+        },
+        {
+            "label": "JABAR",
+            "options": [
+                {
+                    "label": "BANDUNG",
+                    "value": "BANDUNG"
+                },
+                {
+                    "label": "BANDUNG BARAT",
+                    "value": "BANDUNG BARAT"
+                },
+                {
+                    "label": "CIAMIS",
+                    "value": "CIAMIS"
+                },
+                {
+                    "label": "CIANJUR",
+                    "value": "CIANJUR"
+                },
+                {
+                    "label": "CIREBON",
+                    "value": "CIREBON"
+                },
+                {
+                    "label": "GARUT",
+                    "value": "GARUT"
+                },
+                {
+                    "label": "INDRAMAYU",
+                    "value": "INDRAMAYU"
+                },
+                {
+                    "label": "KOTA BANDUNG",
+                    "value": "KOTA BANDUNG"
+                },
+                {
+                    "label": "KOTA BANJAR",
+                    "value": "KOTA BANJAR"
+                },
+                {
+                    "label": "KOTA CIMAHI",
+                    "value": "KOTA CIMAHI"
+                },
+                {
+                    "label": "KOTA CIREBON",
+                    "value": "KOTA CIREBON"
+                },
+                {
+                    "label": "KOTA TASIKMALAYA",
+                    "value": "KOTA TASIKMALAYA"
+                },
+                {
+                    "label": "KUNINGAN",
+                    "value": "KUNINGAN"
+                },
+                {
+                    "label": "MAJALENGKA",
+                    "value": "MAJALENGKA"
+                },
+                {
+                    "label": "PANGANDARAN",
+                    "value": "PANGANDARAN"
+                },
+                {
+                    "label": "SUBANG",
+                    "value": "SUBANG"
+                },
+                {
+                    "label": "SUMEDANG",
+                    "value": "SUMEDANG"
+                },
+                {
+                    "label": "TASIKMALAYA",
+                    "value": "TASIKMALAYA"
+                }
+            ]
+        },
+        {
+            "label": "JATENG-DIY",
+            "options": [
+                {
+                    "label": "BANJARNEGARA",
+                    "value": "BANJARNEGARA"
+                },
+                {
+                    "label": "BANTUL",
+                    "value": "BANTUL"
+                },
+                {
+                    "label": "BANYUMAS",
+                    "value": "BANYUMAS"
+                },
+                {
+                    "label": "BATANG",
+                    "value": "BATANG"
+                },
+                {
+                    "label": "BLORA",
+                    "value": "BLORA"
+                },
+                {
+                    "label": "BOYOLALI",
+                    "value": "BOYOLALI"
+                },
+                {
+                    "label": "BREBES",
+                    "value": "BREBES"
+                },
+                {
+                    "label": "CILACAP",
+                    "value": "CILACAP"
+                },
+                {
+                    "label": "DEMAK",
+                    "value": "DEMAK"
+                },
+                {
+                    "label": "GROBOGAN",
+                    "value": "GROBOGAN"
+                },
+                {
+                    "label": "GUNUNG KIDUL",
+                    "value": "GUNUNG KIDUL"
+                },
+                {
+                    "label": "JEPARA",
+                    "value": "JEPARA"
+                },
+                {
+                    "label": "KARANGANYAR",
+                    "value": "KARANGANYAR"
+                },
+                {
+                    "label": "KEBUMEN",
+                    "value": "KEBUMEN"
+                },
+                {
+                    "label": "KENDAL",
+                    "value": "KENDAL"
+                },
+                {
+                    "label": "KLATEN",
+                    "value": "KLATEN"
+                },
+                {
+                    "label": "KOTA MAGELANG",
+                    "value": "KOTA MAGELANG"
+                },
+                {
+                    "label": "KOTA PEKALONGAN",
+                    "value": "KOTA PEKALONGAN"
+                },
+                {
+                    "label": "KOTA SALATIGA",
+                    "value": "KOTA SALATIGA"
+                },
+                {
+                    "label": "KOTA SEMARANG",
+                    "value": "KOTA SEMARANG"
+                },
+                {
+                    "label": "KOTA SURAKARTA",
+                    "value": "KOTA SURAKARTA"
+                },
+                {
+                    "label": "KOTA TEGAL",
+                    "value": "KOTA TEGAL"
+                },
+                {
+                    "label": "KOTA YOGYAKARTA",
+                    "value": "KOTA YOGYAKARTA"
+                },
+                {
+                    "label": "KUDUS",
+                    "value": "KUDUS"
+                },
+                {
+                    "label": "KULON PROGO",
+                    "value": "KULON PROGO"
+                },
+                {
+                    "label": "MAGELANG",
+                    "value": "MAGELANG"
+                },
+                {
+                    "label": "PATI",
+                    "value": "PATI"
+                },
+                {
+                    "label": "PEKALONGAN",
+                    "value": "PEKALONGAN"
+                },
+                {
+                    "label": "PEMALANG",
+                    "value": "PEMALANG"
+                },
+                {
+                    "label": "PURBALINGGA",
+                    "value": "PURBALINGGA"
+                },
+                {
+                    "label": "PURWOREJO",
+                    "value": "PURWOREJO"
+                },
+                {
+                    "label": "REMBANG",
+                    "value": "REMBANG"
+                },
+                {
+                    "label": "SEMARANG",
+                    "value": "SEMARANG"
+                },
+                {
+                    "label": "SLEMAN",
+                    "value": "SLEMAN"
+                },
+                {
+                    "label": "SRAGEN",
+                    "value": "SRAGEN"
+                },
+                {
+                    "label": "SUKOHARJO",
+                    "value": "SUKOHARJO"
+                },
+                {
+                    "label": "TEGAL",
+                    "value": "TEGAL"
+                },
+                {
+                    "label": "TEMANGGUNG",
+                    "value": "TEMANGGUNG"
+                },
+                {
+                    "label": "WONOGIRI",
+                    "value": "WONOGIRI"
+                },
+                {
+                    "label": "WONOSOBO",
+                    "value": "WONOSOBO"
+                }
+            ]
+        },
+        {
+            "label": "JATIM",
+            "options": [
+                {
+                    "label": "BANGKALAN",
+                    "value": "BANGKALAN"
+                },
+                {
+                    "label": "BANYUWANGI",
+                    "value": "BANYUWANGI"
+                },
+                {
+                    "label": "BLITAR",
+                    "value": "BLITAR"
+                },
+                {
+                    "label": "BOJONEGORO",
+                    "value": "BOJONEGORO"
+                },
+                {
+                    "label": "BONDOWOSO",
+                    "value": "BONDOWOSO"
+                },
+                {
+                    "label": "GRESIK",
+                    "value": "GRESIK"
+                },
+                {
+                    "label": "JEMBER",
+                    "value": "JEMBER"
+                },
+                {
+                    "label": "JOMBANG",
+                    "value": "JOMBANG"
+                },
+                {
+                    "label": "KEDIRI",
+                    "value": "KEDIRI"
+                },
+                {
+                    "label": "KOTA BATU",
+                    "value": "KOTA BATU"
+                },
+                {
+                    "label": "KOTA BLITAR",
+                    "value": "KOTA BLITAR"
+                },
+                {
+                    "label": "KOTA KEDIRI",
+                    "value": "KOTA KEDIRI"
+                },
+                {
+                    "label": "KOTA MADIUN",
+                    "value": "KOTA MADIUN"
+                },
+                {
+                    "label": "KOTA MALANG",
+                    "value": "KOTA MALANG"
+                },
+                {
+                    "label": "KOTA MOJOKERTO",
+                    "value": "KOTA MOJOKERTO"
+                },
+                {
+                    "label": "KOTA PASURUAN",
+                    "value": "KOTA PASURUAN"
+                },
+                {
+                    "label": "KOTA PROBOLINGGO",
+                    "value": "KOTA PROBOLINGGO"
+                },
+                {
+                    "label": "KOTA SURABAYA",
+                    "value": "KOTA SURABAYA"
+                },
+                {
+                    "label": "LAMONGAN",
+                    "value": "LAMONGAN"
+                },
+                {
+                    "label": "LUMAJANG",
+                    "value": "LUMAJANG"
+                },
+                {
+                    "label": "MADIUN",
+                    "value": "MADIUN"
+                },
+                {
+                    "label": "MAGETAN",
+                    "value": "MAGETAN"
+                },
+                {
+                    "label": "MALANG",
+                    "value": "MALANG"
+                },
+                {
+                    "label": "MOJOKERTO",
+                    "value": "MOJOKERTO"
+                },
+                {
+                    "label": "NGANJUK",
+                    "value": "NGANJUK"
+                },
+                {
+                    "label": "NGAWI",
+                    "value": "NGAWI"
+                },
+                {
+                    "label": "PACITAN",
+                    "value": "PACITAN"
+                },
+                {
+                    "label": "PAMEKASAN",
+                    "value": "PAMEKASAN"
+                },
+                {
+                    "label": "PASURUAN",
+                    "value": "PASURUAN"
+                },
+                {
+                    "label": "PONOROGO",
+                    "value": "PONOROGO"
+                },
+                {
+                    "label": "PROBOLINGGO",
+                    "value": "PROBOLINGGO"
+                },
+                {
+                    "label": "SAMPANG",
+                    "value": "SAMPANG"
+                },
+                {
+                    "label": "SIDOARJO",
+                    "value": "SIDOARJO"
+                },
+                {
+                    "label": "SITUBONDO",
+                    "value": "SITUBONDO"
+                },
+                {
+                    "label": "SUMENEP",
+                    "value": "SUMENEP"
+                },
+                {
+                    "label": "TRENGGALEK",
+                    "value": "TRENGGALEK"
+                },
+                {
+                    "label": "TUBAN",
+                    "value": "TUBAN"
+                },
+                {
+                    "label": "TULUNGAGUNG",
+                    "value": "TULUNGAGUNG"
+                }
+            ]
+        },
+        {
+            "label": "BALI NUSRA",
+            "options": [
+                {
+                    "label": "ALOR",
+                    "value": "ALOR"
+                },
+                {
+                    "label": "BADUNG",
+                    "value": "BADUNG"
+                },
+                {
+                    "label": "BANGLI",
+                    "value": "BANGLI"
+                },
+                {
+                    "label": "BELU",
+                    "value": "BELU"
+                },
+                {
+                    "label": "BIMA",
+                    "value": "BIMA"
+                },
+                {
+                    "label": "BULELENG",
+                    "value": "BULELENG"
+                },
+                {
+                    "label": "DOMPU",
+                    "value": "DOMPU"
+                },
+                {
+                    "label": "ENDE",
+                    "value": "ENDE"
+                },
+                {
+                    "label": "FLORES TIMUR",
+                    "value": "FLORES TIMUR"
+                },
+                {
+                    "label": "GIANYAR",
+                    "value": "GIANYAR"
+                },
+                {
+                    "label": "JEMBRANA",
+                    "value": "JEMBRANA"
+                },
+                {
+                    "label": "KARANG ASEM",
+                    "value": "KARANG ASEM"
+                },
+                {
+                    "label": "KLUNGKUNG",
+                    "value": "KLUNGKUNG"
+                },
+                {
+                    "label": "KOTA BIMA",
+                    "value": "KOTA BIMA"
+                },
+                {
+                    "label": "KOTA DENPASAR",
+                    "value": "KOTA DENPASAR"
+                },
+                {
+                    "label": "KOTA KUPANG",
+                    "value": "KOTA KUPANG"
+                },
+                {
+                    "label": "KOTA MATARAM",
+                    "value": "KOTA MATARAM"
+                },
+                {
+                    "label": "KUPANG",
+                    "value": "KUPANG"
+                },
+                {
+                    "label": "LEMBATA",
+                    "value": "LEMBATA"
+                },
+                {
+                    "label": "LOMBOK BARAT",
+                    "value": "LOMBOK BARAT"
+                },
+                {
+                    "label": "LOMBOK TENGAH",
+                    "value": "LOMBOK TENGAH"
+                },
+                {
+                    "label": "LOMBOK TIMUR",
+                    "value": "LOMBOK TIMUR"
+                },
+                {
+                    "label": "LOMBOK UTARA",
+                    "value": "LOMBOK UTARA"
+                },
+                {
+                    "label": "MALAKA",
+                    "value": "MALAKA"
+                },
+                {
+                    "label": "MANGGARAI",
+                    "value": "MANGGARAI"
+                },
+                {
+                    "label": "MANGGARAI BARAT",
+                    "value": "MANGGARAI BARAT"
+                },
+                {
+                    "label": "MANGGARAI TIMUR",
+                    "value": "MANGGARAI TIMUR"
+                },
+                {
+                    "label": "NAGEKEO",
+                    "value": "NAGEKEO"
+                },
+                {
+                    "label": "NGADA",
+                    "value": "NGADA"
+                },
+                {
+                    "label": "ROTE NDAO",
+                    "value": "ROTE NDAO"
+                },
+                {
+                    "label": "SABU RAIJUA",
+                    "value": "SABU RAIJUA"
+                },
+                {
+                    "label": "SIKKA",
+                    "value": "SIKKA"
+                },
+                {
+                    "label": "SUMBA BARAT",
+                    "value": "SUMBA BARAT"
+                },
+                {
+                    "label": "SUMBA BARAT DAYA",
+                    "value": "SUMBA BARAT DAYA"
+                },
+                {
+                    "label": "SUMBA TENGAH",
+                    "value": "SUMBA TENGAH"
+                },
+                {
+                    "label": "SUMBA TIMUR",
+                    "value": "SUMBA TIMUR"
+                },
+                {
+                    "label": "SUMBAWA",
+                    "value": "SUMBAWA"
+                },
+                {
+                    "label": "SUMBAWA BARAT",
+                    "value": "SUMBAWA BARAT"
+                },
+                {
+                    "label": "TABANAN",
+                    "value": "TABANAN"
+                },
+                {
+                    "label": "TIMOR TENGAH SELATAN",
+                    "value": "TIMOR TENGAH SELATAN"
+                },
+                {
+                    "label": "TIMOR TENGAH UTARA",
+                    "value": "TIMOR TENGAH UTARA"
+                }
+            ]
+        },
+        {
+            "label": "KALIMANTAN",
+            "options": [
+                {
+                    "label": "BALANGAN",
+                    "value": "BALANGAN"
+                },
+                {
+                    "label": "BANJAR",
+                    "value": "BANJAR"
+                },
+                {
+                    "label": "BARITO KUALA",
+                    "value": "BARITO KUALA"
+                },
+                {
+                    "label": "BARITO SELATAN",
+                    "value": "BARITO SELATAN"
+                },
+                {
+                    "label": "BARITO TIMUR",
+                    "value": "BARITO TIMUR"
+                },
+                {
+                    "label": "BARITO UTARA",
+                    "value": "BARITO UTARA"
+                },
+                {
+                    "label": "BENGKAYANG",
+                    "value": "BENGKAYANG"
+                },
+                {
+                    "label": "BERAU",
+                    "value": "BERAU"
+                },
+                {
+                    "label": "BULUNGAN",
+                    "value": "BULUNGAN"
+                },
+                {
+                    "label": "GUNUNG MAS",
+                    "value": "GUNUNG MAS"
+                },
+                {
+                    "label": "HULU SUNGAI SELATAN",
+                    "value": "HULU SUNGAI SELATAN"
+                },
+                {
+                    "label": "HULU SUNGAI TENGAH",
+                    "value": "HULU SUNGAI TENGAH"
+                },
+                {
+                    "label": "HULU SUNGAI UTARA",
+                    "value": "HULU SUNGAI UTARA"
+                },
+                {
+                    "label": "KAPUAS",
+                    "value": "KAPUAS"
+                },
+                {
+                    "label": "KAPUAS HULU",
+                    "value": "KAPUAS HULU"
+                },
+                {
+                    "label": "KATINGAN",
+                    "value": "KATINGAN"
+                },
+                {
+                    "label": "KAYONG UTARA",
+                    "value": "KAYONG UTARA"
+                },
+                {
+                    "label": "KETAPANG",
+                    "value": "KETAPANG"
+                },
+                {
+                    "label": "KOTA BALIKPAPAN",
+                    "value": "KOTA BALIKPAPAN"
+                },
+                {
+                    "label": "KOTA BANJAR BARU",
+                    "value": "KOTA BANJAR BARU"
+                },
+                {
+                    "label": "KOTA BANJARMASIN",
+                    "value": "KOTA BANJARMASIN"
+                },
+                {
+                    "label": "KOTA BARU",
+                    "value": "KOTA BARU"
+                },
+                {
+                    "label": "KOTA BONTANG",
+                    "value": "KOTA BONTANG"
+                },
+                {
+                    "label": "KOTA PALANGKARAYA",
+                    "value": "KOTA PALANGKARAYA"
+                },
+                {
+                    "label": "KOTA PONTIANAK",
+                    "value": "KOTA PONTIANAK"
+                },
+                {
+                    "label": "KOTA SAMARINDA",
+                    "value": "KOTA SAMARINDA"
+                },
+                {
+                    "label": "KOTA SINGKAWANG",
+                    "value": "KOTA SINGKAWANG"
+                },
+                {
+                    "label": "KOTA TARAKAN",
+                    "value": "KOTA TARAKAN"
+                },
+                {
+                    "label": "KOTAWARINGIN BARAT",
+                    "value": "KOTAWARINGIN BARAT"
+                },
+                {
+                    "label": "KOTAWARINGIN TIMUR",
+                    "value": "KOTAWARINGIN TIMUR"
+                },
+                {
+                    "label": "KUBU RAYA",
+                    "value": "KUBU RAYA"
+                },
+                {
+                    "label": "KUTAI BARAT",
+                    "value": "KUTAI BARAT"
+                },
+                {
+                    "label": "KUTAI KARTANEGARA",
+                    "value": "KUTAI KARTANEGARA"
+                },
+                {
+                    "label": "KUTAI TIMUR",
+                    "value": "KUTAI TIMUR"
+                },
+                {
+                    "label": "LAMANDAU",
+                    "value": "LAMANDAU"
+                },
+                {
+                    "label": "LANDAK",
+                    "value": "LANDAK"
+                },
+                {
+                    "label": "MAHAKAM ULU",
+                    "value": "MAHAKAM ULU"
+                },
+                {
+                    "label": "MALINAU",
+                    "value": "MALINAU"
+                },
+                {
+                    "label": "MELAWI",
+                    "value": "MELAWI"
+                },
+                {
+                    "label": "MEMPAWAH",
+                    "value": "MEMPAWAH"
+                },
+                {
+                    "label": "MURUNG RAYA",
+                    "value": "MURUNG RAYA"
+                },
+                {
+                    "label": "NUNUKAN",
+                    "value": "NUNUKAN"
+                },
+                {
+                    "label": "PASER",
+                    "value": "PASER"
+                },
+                {
+                    "label": "PENAJAM PASER UTARA",
+                    "value": "PENAJAM PASER UTARA"
+                },
+                {
+                    "label": "PULANG PISAU",
+                    "value": "PULANG PISAU"
+                },
+                {
+                    "label": "SAMBAS",
+                    "value": "SAMBAS"
+                },
+                {
+                    "label": "SANGGAU",
+                    "value": "SANGGAU"
+                },
+                {
+                    "label": "SEKADAU",
+                    "value": "SEKADAU"
+                },
+                {
+                    "label": "SERUYAN",
+                    "value": "SERUYAN"
+                },
+                {
+                    "label": "SINTANG",
+                    "value": "SINTANG"
+                },
+                {
+                    "label": "SUKAMARA",
+                    "value": "SUKAMARA"
+                },
+                {
+                    "label": "TABALONG",
+                    "value": "TABALONG"
+                },
+                {
+                    "label": "TANAH BUMBU",
+                    "value": "TANAH BUMBU"
+                },
+                {
+                    "label": "TANAH LAUT",
+                    "value": "TANAH LAUT"
+                },
+                {
+                    "label": "TANA TIDUNG",
+                    "value": "TANA TIDUNG"
+                },
+                {
+                    "label": "TAPIN",
+                    "value": "TAPIN"
+                }
+            ]
+        },
+        {
+            "label": "SULAWESI",
+            "options": [
+                {
+                    "label": "BANGGAI",
+                    "value": "BANGGAI"
+                },
+                {
+                    "label": "BANGGAI KEPULAUAN",
+                    "value": "BANGGAI KEPULAUAN"
+                },
+                {
+                    "label": "BANGGAI LAUT",
+                    "value": "BANGGAI LAUT"
+                },
+                {
+                    "label": "BANTAENG",
+                    "value": "BANTAENG"
+                },
+                {
+                    "label": "BARRU",
+                    "value": "BARRU"
+                },
+                {
+                    "label": "BOALEMO",
+                    "value": "BOALEMO"
+                },
+                {
+                    "label": "BOLAANG MONGONDOW",
+                    "value": "BOLAANG MONGONDOW"
+                },
+                {
+                    "label": "BOLAANG MONGONDOW SELATAN",
+                    "value": "BOLAANG MONGONDOW SELATAN"
+                },
+                {
+                    "label": "BOLAANG MONGONDOW TIMUR",
+                    "value": "BOLAANG MONGONDOW TIMUR"
+                },
+                {
+                    "label": "BOLAANG MONGONDOW UTARA",
+                    "value": "BOLAANG MONGONDOW UTARA"
+                },
+                {
+                    "label": "BOMBANA",
+                    "value": "BOMBANA"
+                },
+                {
+                    "label": "BONE",
+                    "value": "BONE"
+                },
+                {
+                    "label": "BONE BOLANGO",
+                    "value": "BONE BOLANGO"
+                },
+                {
+                    "label": "BULUKUMBA",
+                    "value": "BULUKUMBA"
+                },
+                {
+                    "label": "BUOL",
+                    "value": "BUOL"
+                },
+                {
+                    "label": "BUTON",
+                    "value": "BUTON"
+                },
+                {
+                    "label": "BUTON SELATAN",
+                    "value": "BUTON SELATAN"
+                },
+                {
+                    "label": "BUTON TENGAH",
+                    "value": "BUTON TENGAH"
+                },
+                {
+                    "label": "BUTON UTARA",
+                    "value": "BUTON UTARA"
+                },
+                {
+                    "label": "DONGGALA",
+                    "value": "DONGGALA"
+                },
+                {
+                    "label": "ENREKANG",
+                    "value": "ENREKANG"
+                },
+                {
+                    "label": "GORONTALO",
+                    "value": "GORONTALO"
+                },
+                {
+                    "label": "GORONTALO UTARA",
+                    "value": "GORONTALO UTARA"
+                },
+                {
+                    "label": "GOWA",
+                    "value": "GOWA"
+                },
+                {
+                    "label": "HALMAHERA BARAT",
+                    "value": "HALMAHERA BARAT"
+                },
+                {
+                    "label": "HALMAHERA SELATAN",
+                    "value": "HALMAHERA SELATAN"
+                },
+                {
+                    "label": "HALMAHERA TENGAH",
+                    "value": "HALMAHERA TENGAH"
+                },
+                {
+                    "label": "HALMAHERA TIMUR",
+                    "value": "HALMAHERA TIMUR"
+                },
+                {
+                    "label": "HALMAHERA UTARA",
+                    "value": "HALMAHERA UTARA"
+                },
+                {
+                    "label": "JENEPONTO",
+                    "value": "JENEPONTO"
+                },
+                {
+                    "label": "KEPULAUAN SANGIHE",
+                    "value": "KEPULAUAN SANGIHE"
+                },
+                {
+                    "label": "KEPULAUAN SELAYAR",
+                    "value": "KEPULAUAN SELAYAR"
+                },
+                {
+                    "label": "KEPULAUAN SULA",
+                    "value": "KEPULAUAN SULA"
+                },
+                {
+                    "label": "KEPULAUAN TALAUD",
+                    "value": "KEPULAUAN TALAUD"
+                },
+                {
+                    "label": "KOLAKA",
+                    "value": "KOLAKA"
+                },
+                {
+                    "label": "KOLAKA TIMUR",
+                    "value": "KOLAKA TIMUR"
+                },
+                {
+                    "label": "KOLAKA UTARA",
+                    "value": "KOLAKA UTARA"
+                },
+                {
+                    "label": "KONAWE",
+                    "value": "KONAWE"
+                },
+                {
+                    "label": "KONAWE KEPULAUAN",
+                    "value": "KONAWE KEPULAUAN"
+                },
+                {
+                    "label": "KONAWE SELATAN",
+                    "value": "KONAWE SELATAN"
+                },
+                {
+                    "label": "KONAWE UTARA",
+                    "value": "KONAWE UTARA"
+                },
+                {
+                    "label": "KOTA BAUBAU",
+                    "value": "KOTA BAUBAU"
+                },
+                {
+                    "label": "KOTA BITUNG",
+                    "value": "KOTA BITUNG"
+                },
+                {
+                    "label": "KOTA GORONTALO",
+                    "value": "KOTA GORONTALO"
+                },
+                {
+                    "label": "KOTA KENDARI",
+                    "value": "KOTA KENDARI"
+                },
+                {
+                    "label": "KOTA KOTAMOBAGU",
+                    "value": "KOTA KOTAMOBAGU"
+                },
+                {
+                    "label": "KOTA MAKASSAR",
+                    "value": "KOTA MAKASSAR"
+                },
+                {
+                    "label": "KOTA MANADO",
+                    "value": "KOTA MANADO"
+                },
+                {
+                    "label": "KOTA PALOPO",
+                    "value": "KOTA PALOPO"
+                },
+                {
+                    "label": "KOTA PALU",
+                    "value": "KOTA PALU"
+                },
+                {
+                    "label": "KOTA PAREPARE",
+                    "value": "KOTA PAREPARE"
+                },
+                {
+                    "label": "KOTA TERNATE",
+                    "value": "KOTA TERNATE"
+                },
+                {
+                    "label": "KOTA TIDORE KEPULAUAN",
+                    "value": "KOTA TIDORE KEPULAUAN"
+                },
+                {
+                    "label": "KOTA TOMOHON",
+                    "value": "KOTA TOMOHON"
+                },
+                {
+                    "label": "LUWU",
+                    "value": "LUWU"
+                },
+                {
+                    "label": "LUWU TIMUR",
+                    "value": "LUWU TIMUR"
+                },
+                {
+                    "label": "LUWU UTARA",
+                    "value": "LUWU UTARA"
+                },
+                {
+                    "label": "MAJENE",
+                    "value": "MAJENE"
+                },
+                {
+                    "label": "MAMASA",
+                    "value": "MAMASA"
+                },
+                {
+                    "label": "MAMUJU",
+                    "value": "MAMUJU"
+                },
+                {
+                    "label": "MAMUJU TENGAH",
+                    "value": "MAMUJU TENGAH"
+                },
+                {
+                    "label": "MAMUJU UTARA",
+                    "value": "MAMUJU UTARA"
+                },
+                {
+                    "label": "MAROS",
+                    "value": "MAROS"
+                },
+                {
+                    "label": "MINAHASA",
+                    "value": "MINAHASA"
+                },
+                {
+                    "label": "MINAHASA SELATAN",
+                    "value": "MINAHASA SELATAN"
+                },
+                {
+                    "label": "MINAHASA TENGGARA",
+                    "value": "MINAHASA TENGGARA"
+                },
+                {
+                    "label": "MINAHASA UTARA",
+                    "value": "MINAHASA UTARA"
+                },
+                {
+                    "label": "MOROWALI",
+                    "value": "MOROWALI"
+                },
+                {
+                    "label": "MOROWALI UTARA",
+                    "value": "MOROWALI UTARA"
+                },
+                {
+                    "label": "MUNA",
+                    "value": "MUNA"
+                },
+                {
+                    "label": "MUNA BARAT",
+                    "value": "MUNA BARAT"
+                },
+                {
+                    "label": "PANGKAJENE DAN KEPULAUAN",
+                    "value": "PANGKAJENE DAN KEPULAUAN"
+                },
+                {
+                    "label": "PARIGI MOUTONG",
+                    "value": "PARIGI MOUTONG"
+                },
+                {
+                    "label": "PINRANG",
+                    "value": "PINRANG"
+                },
+                {
+                    "label": "POHUWATO",
+                    "value": "POHUWATO"
+                },
+                {
+                    "label": "POLEWALI MANDAR",
+                    "value": "POLEWALI MANDAR"
+                },
+                {
+                    "label": "POSO",
+                    "value": "POSO"
+                },
+                {
+                    "label": "PULAU MOROTAI",
+                    "value": "PULAU MOROTAI"
+                },
+                {
+                    "label": "PULAU TALIABU",
+                    "value": "PULAU TALIABU"
+                },
+                {
+                    "label": "SIAU TAGULANDANG BIARO",
+                    "value": "SIAU TAGULANDANG BIARO"
+                },
+                {
+                    "label": "SIDENRENG RAPPANG",
+                    "value": "SIDENRENG RAPPANG"
+                },
+                {
+                    "label": "SIGI",
+                    "value": "SIGI"
+                },
+                {
+                    "label": "SINJAI",
+                    "value": "SINJAI"
+                },
+                {
+                    "label": "SOPPENG",
+                    "value": "SOPPENG"
+                },
+                {
+                    "label": "TAKALAR",
+                    "value": "TAKALAR"
+                },
+                {
+                    "label": "TANA TORAJA",
+                    "value": "TANA TORAJA"
+                },
+                {
+                    "label": "TOJO UNA-UNA",
+                    "value": "TOJO UNA-UNA"
+                },
+                {
+                    "label": "TOLI-TOLI",
+                    "value": "TOLI-TOLI"
+                },
+                {
+                    "label": "TORAJA UTARA",
+                    "value": "TORAJA UTARA"
+                },
+                {
+                    "label": "WAJO",
+                    "value": "WAJO"
+                },
+                {
+                    "label": "WAKATOBI",
+                    "value": "WAKATOBI"
+                }
+            ]
+        },
+        {
+            "label": "MALUKU DAN PAPUA",
+            "options": [
+                {
+                    "label": "ASMAT",
+                    "value": "ASMAT"
+                },
+                {
+                    "label": "BIAK NUMFOR",
+                    "value": "BIAK NUMFOR"
+                },
+                {
+                    "label": "BOVEN DIGOEL",
+                    "value": "BOVEN DIGOEL"
+                },
+                {
+                    "label": "BURU",
+                    "value": "BURU"
+                },
+                {
+                    "label": "BURU SELATAN",
+                    "value": "BURU SELATAN"
+                },
+                {
+                    "label": "DEIYAI",
+                    "value": "DEIYAI"
+                },
+                {
+                    "label": "DOGIYAI",
+                    "value": "DOGIYAI"
+                },
+                {
+                    "label": "FAKFAK",
+                    "value": "FAKFAK"
+                },
+                {
+                    "label": "INTAN JAYA",
+                    "value": "INTAN JAYA"
+                },
+                {
+                    "label": "JAYAPURA",
+                    "value": "JAYAPURA"
+                },
+                {
+                    "label": "JAYAWIJAYA",
+                    "value": "JAYAWIJAYA"
+                },
+                {
+                    "label": "KAIMANA",
+                    "value": "KAIMANA"
+                },
+                {
+                    "label": "KEEROM",
+                    "value": "KEEROM"
+                },
+                {
+                    "label": "KEPULAUAN ARU",
+                    "value": "KEPULAUAN ARU"
+                },
+                {
+                    "label": "KEPULAUAN YAPEN",
+                    "value": "KEPULAUAN YAPEN"
+                },
+                {
+                    "label": "KOTA AMBON",
+                    "value": "KOTA AMBON"
+                },
+                {
+                    "label": "KOTA JAYAPURA",
+                    "value": "KOTA JAYAPURA"
+                },
+                {
+                    "label": "KOTA SORONG",
+                    "value": "KOTA SORONG"
+                },
+                {
+                    "label": "KOTA TUAL",
+                    "value": "KOTA TUAL"
+                },
+                {
+                    "label": "LANNY JAYA",
+                    "value": "LANNY JAYA"
+                },
+                {
+                    "label": "MALUKU BARAT DAYA",
+                    "value": "MALUKU BARAT DAYA"
+                },
+                {
+                    "label": "MALUKU TENGAH",
+                    "value": "MALUKU TENGAH"
+                },
+                {
+                    "label": "MALUKU TENGGARA",
+                    "value": "MALUKU TENGGARA"
+                },
+                {
+                    "label": "MALUKU TENGGARA BARAT",
+                    "value": "MALUKU TENGGARA BARAT"
+                },
+                {
+                    "label": "MAMBERAMO RAYA",
+                    "value": "MAMBERAMO RAYA"
+                },
+                {
+                    "label": "MAMBERAMO TENGAH",
+                    "value": "MAMBERAMO TENGAH"
+                },
+                {
+                    "label": "MANOKWARI",
+                    "value": "MANOKWARI"
+                },
+                {
+                    "label": "MANOKWARI SELATAN",
+                    "value": "MANOKWARI SELATAN"
+                },
+                {
+                    "label": "MAPPI",
+                    "value": "MAPPI"
+                },
+                {
+                    "label": "MAYBRAT",
+                    "value": "MAYBRAT"
+                },
+                {
+                    "label": "MERAUKE",
+                    "value": "MERAUKE"
+                },
+                {
+                    "label": "MIMIKA",
+                    "value": "MIMIKA"
+                },
+                {
+                    "label": "NABIRE",
+                    "value": "NABIRE"
+                },
+                {
+                    "label": "NDUGA",
+                    "value": "NDUGA"
+                },
+                {
+                    "label": "PANIAI",
+                    "value": "PANIAI"
+                },
+                {
+                    "label": "PEGUNUNGAN ARFAK",
+                    "value": "PEGUNUNGAN ARFAK"
+                },
+                {
+                    "label": "PEGUNUNGAN BINTANG",
+                    "value": "PEGUNUNGAN BINTANG"
+                },
+                {
+                    "label": "PUNCAK",
+                    "value": "PUNCAK"
+                },
+                {
+                    "label": "PUNCAK JAYA",
+                    "value": "PUNCAK JAYA"
+                },
+                {
+                    "label": "RAJA AMPAT",
+                    "value": "RAJA AMPAT"
+                },
+                {
+                    "label": "SARMI",
+                    "value": "SARMI"
+                },
+                {
+                    "label": "SERAM BAGIAN BARAT",
+                    "value": "SERAM BAGIAN BARAT"
+                },
+                {
+                    "label": "SERAM BAGIAN TIMUR",
+                    "value": "SERAM BAGIAN TIMUR"
+                },
+                {
+                    "label": "SORONG",
+                    "value": "SORONG"
+                },
+                {
+                    "label": "SORONG SELATAN",
+                    "value": "SORONG SELATAN"
+                },
+                {
+                    "label": "SUPIORI",
+                    "value": "SUPIORI"
+                },
+                {
+                    "label": "TAMBRAUW",
+                    "value": "TAMBRAUW"
+                },
+                {
+                    "label": "TELUK BINTUNI",
+                    "value": "TELUK BINTUNI"
+                },
+                {
+                    "label": "TELUK WONDAMA",
+                    "value": "TELUK WONDAMA"
+                },
+                {
+                    "label": "TOLIKARA",
+                    "value": "TOLIKARA"
+                },
+                {
+                    "label": "WAROPEN",
+                    "value": "WAROPEN"
+                },
+                {
+                    "label": "YAHUKIMO",
+                    "value": "YAHUKIMO"
+                },
+                {
+                    "label": "YALIMO",
+                    "value": "YALIMO"
+                }
+            ]
+        }
+    ],
+    "errors": [],
+    "page": null
+}

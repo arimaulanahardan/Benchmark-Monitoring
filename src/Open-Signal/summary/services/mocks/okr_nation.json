@@ -1,0 +1,38 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "summary": {
+            "target": "6",
+            "latest_okr": "83"
+        },
+        "category": [
+            202329,
+            202330,
+            202331,
+            202332
+        ],
+        "series": [
+            {
+                "name": "target",
+                "data": [
+                    6,
+                    6,
+                    6,
+                    6
+                ]
+            },
+            {
+                "name": "rate_win",
+                "data": [
+                    83,
+                    83,
+                    83,
+                    83
+                ]
+            }
+        ]
+    },
+    "page": null,
+    "errors": []
+}

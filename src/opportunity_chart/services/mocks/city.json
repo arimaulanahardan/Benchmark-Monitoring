@@ -1,0 +1,414 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "category": [
+            "MALUKU DAN PAPUA",
+            "SULAWESI",
+            "KALIMANTAN",
+            "BALI NUSRA",
+            "JATIM",
+            "JATENG-DIY",
+            "JABAR",
+            "INNER JABOTABEK",
+            "OUTER JABOTABEK",
+            "SUMBAGSEL",
+            "SUMBAGTENG",
+            "SUMBAGUT"
+        ],
+        "series": [
+            {
+                "name": "Lose Good Quality",
+                "data": [
+                    0,
+                    8,
+                    3,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    3,
+                    10
+                ],
+                "cities": [
+                    [],
+                    [
+                        "GORONTALO UTARA",
+                        "KONAWE UTARA",
+                        "KOLAKA TIMUR",
+                        "MUNA BARAT",
+                        "MOROWALI UTARA",
+                        "BOLAANG MONGONDOW SELATAN",
+                        "MUNA",
+                        "HALMAHERA BARAT"
+                    ],
+                    [
+                        "BALANGAN",
+                        "MURUNG RAYA",
+                        "KUTAI KARTANEGARA"
+                    ],
+                    [
+                        "MANGGARAI",
+                        "LOMBOK BARAT",
+                        "KOTA MATARAM",
+                        "LOMBOK UTARA",
+                        "KOTA DENPASAR"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "MUKOMUKO",
+                        "BANGKA BARAT"
+                    ],
+                    [
+                        "SIJUNJUNG",
+                        "LIMA PULUH KOTA",
+                        "DHARMASRAYA"
+                    ],
+                    [
+                        "KOTA SIBOLGA",
+                        "ACEH UTARA",
+                        "ACEH TENGAH",
+                        "KARO",
+                        "ACEH TIMUR",
+                        "KOTA PADANGSIDIMPUAN",
+                        "PIDIE",
+                        "TOBA SAMOSIR",
+                        "ASAHAN",
+                        "TAPANULI TENGAH"
+                    ]
+                ]
+            },
+            {
+                "name": "Lose Game Score",
+                "data": [
+                    0,
+                    1,
+                    3,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    4,
+                    1
+                ],
+                "cities": [
+                    [],
+                    [
+                        "KEPULAUAN SELAYAR"
+                    ],
+                    [
+                        "GUNUNG MAS",
+                        "BARITO UTARA",
+                        "LAMANDAU"
+                    ],
+                    [
+                        "BADUNG"
+                    ],
+                    [
+                        "PROBOLINGGO"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "BENGKULU TENGAH",
+                        "MUSI BANYUASIN",
+                        "SELUMA",
+                        "MUSI RAWAS",
+                        "OGAN KOMERING ULU SELATAN",
+                        "BANYU ASIN",
+                        "MESUJI",
+                        "TANGGAMUS",
+                        "WAY KANAN",
+                        "TULANGBAWANG"
+                    ],
+                    [
+                        "KOTA SOLOK",
+                        "ROKAN HULU",
+                        "NATUNA",
+                        "LINGGA"
+                    ],
+                    [
+                        "LANGKAT"
+                    ]
+                ]
+            },
+            {
+                "name": "Lose Video Score",
+                "data": [
+                    0,
+                    5,
+                    5,
+                    4,
+                    5,
+                    5,
+                    1,
+                    0,
+                    0,
+                    0,
+                    2,
+                    3
+                ],
+                "cities": [
+                    [],
+                    [
+                        "GORONTALO",
+                        "BOLAANG MONGONDOW UTARA",
+                        "MAMUJU",
+                        "KOTA KENDARI",
+                        "SIGI"
+                    ],
+                    [
+                        "KAYONG UTARA",
+                        "KUTAI BARAT",
+                        "PULANG PISAU",
+                        "KOTA PONTIANAK",
+                        "TAPIN"
+                    ],
+                    [
+                        "DOMPU",
+                        "MANGGARAI BARAT",
+                        "LOMBOK TIMUR",
+                        "BANGLI"
+                    ],
+                    [
+                        "MADIUN",
+                        "KOTA BATU",
+                        "PONOROGO",
+                        "NGANJUK",
+                        "KEDIRI"
+                    ],
+                    [
+                        "BATANG",
+                        "GUNUNG KIDUL",
+                        "KOTA PEKALONGAN",
+                        "BLORA",
+                        "KULON PROGO"
+                    ],
+                    [
+                        "KOTA BANJAR"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                        "PASAMAN BARAT",
+                        "S I A K"
+                    ],
+                    [
+                        "MANDAILING NATAL",
+                        "PIDIE JAYA",
+                        "ACEH TENGGARA"
+                    ]
+                ]
+            },
+            {
+                "name": "Lose Good Quality and Game Score",
+                "data": [
+                    0,
+                    2,
+                    0,
+                    3,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    7
+                ],
+                "cities": [
+                    [],
+                    [
+                        "GORONTALO",
+                        "BOLAANG MONGONDOW UTARA",
+                        "MAMUJU",
+                        "KOTA KENDARI",
+                        "SIGI"
+                    ],
+                    [
+                        "KAYONG UTARA",
+                        "KUTAI BARAT",
+                        "PULANG PISAU",
+                        "KOTA PONTIANAK",
+                        "TAPIN"
+                    ],
+                    [
+                        "DOMPU",
+                        "MANGGARAI BARAT",
+                        "LOMBOK TIMUR",
+                        "BANGLI"
+                    ],
+                    [
+                        "MADIUN",
+                        "KOTA BATU",
+                        "PONOROGO",
+                        "NGANJUK",
+                        "KEDIRI"
+                    ],
+                    [
+                        "BATANG",
+                        "GUNUNG KIDUL",
+                        "KOTA PEKALONGAN",
+                        "BLORA",
+                        "KULON PROGO"
+                    ],
+                    [
+                        "KOTA BANJAR"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                        "PASAMAN BARAT",
+                        "S I A K"
+                    ],
+                    [
+                        "MANDAILING NATAL",
+                        "PIDIE JAYA",
+                        "ACEH TENGGARA"
+                    ]
+                ]
+            },
+            {
+                "name": "Lose Game Score and Video Score",
+                "data": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "cities": [
+                    [],
+                    [
+                        "MAMUJU UTARA"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ]
+            },
+            {
+                "name": "Lose Good Quality and Video Score",
+                "data": [
+                    0,
+                    3,
+                    5,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0
+                ],
+                "cities": [
+                    [],
+                    [
+                        "JENEPONTO",
+                        "BOMBANA",
+                        "POSO"
+                    ],
+                    [
+                        "LANDAK",
+                        "KETAPANG",
+                        "BERAU",
+                        "KOTA SAMARINDA",
+                        "BENGKAYANG"
+                    ],
+                    [],
+                    [
+                        "TRENGGALEK"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "KEPULAUAN MERANTI"
+                    ],
+                    []
+                ]
+            },
+            {
+                "name": "Lose All",
+                "data": [
+                    0,
+                    0,
+                    4,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    6
+                ],
+                "cities": [
+                    [],
+                    [],
+                    [
+                        "KAPUAS",
+                        "SERUYAN",
+                        "NUNUKAN",
+                        "KATINGAN"
+                    ],
+                    [
+                        "KLUNGKUNG"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "PASAMAN"
+                    ],
+                    [
+                        "LABUHAN BATU SELATAN",
+                        "LABUHAN BATU UTARA",
+                        "ACEH BARAT",
+                        "NAGAN RAYA",
+                        "TAPANULI SELATAN",
+                        "BENER MERIAH"
+                    ]
+                ]
+            }
+        ]
+    },
+    "errors": [],
+    "page": null
+}

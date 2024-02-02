@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+       "Weekly",
+       "Monthly"
+    ],
+    "page": null,
+    "errors": []
+ }

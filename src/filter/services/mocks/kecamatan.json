@@ -1,0 +1,20 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        "ACEH BESAR",
+        "ACEH BARAT",
+        "ACEH BARAT DAYA",
+        "ACEH JAYA",
+        "ACEH SELATAN",
+        "ACEH SINGKIL",
+        "ACEH TAMIANG",
+        "ACEH TENGAH",
+        "ACEH TENGGARA",
+        "ACEH TIMUR",
+        "ACEH UTARA",
+        "BUMI AGUNG"
+    ],
+    "page": null,
+    "errors": []
+}

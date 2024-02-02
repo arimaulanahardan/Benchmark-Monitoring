@@ -1,0 +1,112 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "region": "BALI NUSRA",
+            "win_city": 2,
+            "win_city_percent": "33.33",
+            "win_city_prev": 1,
+            "Q1_target_city": 6,
+            "achievement": 33.33
+        },
+        {
+            "region": "CENTRAL JABOTABEK",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 5,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "EASTERN JABOTABEK",
+            "win_city": 6,
+            "win_city_percent": "100.00",
+            "win_city_prev": 6,
+            "Q1_target_city": 6,
+            "achievement": 100
+        },
+        {
+            "region": "JABAR",
+            "win_city": 6,
+            "win_city_percent": "100.00",
+            "win_city_prev": 6,
+            "Q1_target_city": 6,
+            "achievement": 100
+        },
+        {
+            "region": "JATENG-DIY",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 5,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "JATIM",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 4,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "KALIMANTAN",
+            "win_city": 3,
+            "win_city_percent": "50.00",
+            "win_city_prev": 3,
+            "Q1_target_city": 6,
+            "achievement": 50
+        },
+        {
+            "region": "MALUKU DAN PAPUA",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 5,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "SULAWESI",
+            "win_city": 2,
+            "win_city_percent": "33.33",
+            "win_city_prev": 3,
+            "Q1_target_city": 6,
+            "achievement": 33.33
+        },
+        {
+            "region": "SUMBAGSEL",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 5,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "SUMBAGTENG",
+            "win_city": 6,
+            "win_city_percent": "100.00",
+            "win_city_prev": 6,
+            "Q1_target_city": 6,
+            "achievement": 100
+        },
+        {
+            "region": "SUMBAGUT",
+            "win_city": 5,
+            "win_city_percent": "83.33",
+            "win_city_prev": 5,
+            "Q1_target_city": 6,
+            "achievement": 83.33
+        },
+        {
+            "region": "WESTERN JABOTABEK",
+            "win_city": 6,
+            "win_city_percent": "100.00",
+            "win_city_prev": 6,
+            "Q1_target_city": 6,
+            "achievement": 100
+        }
+    ],
+    "page": null,
+    "errors": []
+}

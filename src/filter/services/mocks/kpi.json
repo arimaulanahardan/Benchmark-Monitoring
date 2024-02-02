@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+       "good_quality",
+       "game_score",
+       "video_score_netflix"
+    ],
+    "page": null,
+    "errors": []
+ }

@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "success": true,
+  "data": {
+      "target_clear": 108937.35,
+      "site_clear": 108,
+      "achievement": 0.09
+  },
+  "errors": [],
+  "page": null
+}

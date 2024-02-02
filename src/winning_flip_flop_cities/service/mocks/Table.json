@@ -1,0 +1,128 @@
+{
+  "code": 200,
+  "success": true,
+  "data": [
+      {
+          "yearweek": 202310,
+          "site_id": "UJT355",
+          "bad_sample": 1,
+          "sample_quality": 10,
+          "good_quality": 90,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 5705975.92,
+          "delta_payload": 19804.15,
+          "throughput": 175324.05,
+          "delta_throughput": 3075.01
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN815",
+          "bad_sample": 0,
+          "sample_quality": 2,
+          "good_quality": 100,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 3001646.2,
+          "delta_payload": 148917.35,
+          "throughput": 69144.16,
+          "delta_throughput": -1331.81
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN810",
+          "bad_sample": 1,
+          "sample_quality": 5,
+          "good_quality": 80,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 1732600.45,
+          "delta_payload": -587774.96,
+          "throughput": 41070.05,
+          "delta_throughput": -15878.32
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN809",
+          "bad_sample": 10,
+          "sample_quality": 37,
+          "good_quality": 72.97,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 3009955.91,
+          "delta_payload": -22016.13,
+          "throughput": 59388.38,
+          "delta_throughput": -572.5
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN807",
+          "bad_sample": 0,
+          "sample_quality": 48,
+          "good_quality": 100,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 5638149.68,
+          "delta_payload": 158516.01,
+          "throughput": 173027.95,
+          "delta_throughput": 9166
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN806",
+          "bad_sample": 4,
+          "sample_quality": 99,
+          "good_quality": 95.96,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 5710094.98,
+          "delta_payload": 401818.03,
+          "throughput": 150594.46,
+          "delta_throughput": -40047.3
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN798",
+          "bad_sample": 11,
+          "sample_quality": 54,
+          "good_quality": 79.63,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 9579160.49,
+          "delta_payload": -303524.31,
+          "throughput": 215234.34,
+          "delta_throughput": -5746.31
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN797",
+          "bad_sample": 4,
+          "sample_quality": 33,
+          "good_quality": 87.88,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 11252712.36,
+          "delta_payload": 62854.29,
+          "throughput": 311098.43,
+          "delta_throughput": 9775.71
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN796",
+          "bad_sample": 0,
+          "sample_quality": 5,
+          "good_quality": 100,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 3553929.33,
+          "delta_payload": 308928.66,
+          "throughput": 107914.4,
+          "delta_throughput": -4963.95
+      },
+      {
+          "yearweek": 202310,
+          "site_id": "PPN795",
+          "bad_sample": 1,
+          "sample_quality": 23,
+          "good_quality": 95.65,
+          "funneling_issue": "issue 1, issue 2, issue 3",
+          "payload": 5306442.08,
+          "delta_payload": 143682.22,
+          "throughput": 171881.78,
+          "delta_throughput": 6010.48
+      }
+  ],
+  "errors": [],
+  "page": null
+}

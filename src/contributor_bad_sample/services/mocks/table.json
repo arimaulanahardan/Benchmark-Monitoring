@@ -1,0 +1,88 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "yearweek": "202301",
+            "site_id": "PPN105",
+            "bad_sample": "14.00",
+            "sample_quality": "25.00",
+            "good_quality": "1.00",
+            "funneling_issue": "2.00"
+        },
+        {
+            "yearweek": "202302",
+            "site_id": "PPN106",
+            "bad_sample": "15.00",
+            "sample_quality": "23.00",
+            "good_quality": "3.00",
+            "funneling_issue": "6.00"
+        },
+        {
+            "yearweek": "202303",
+            "site_id": "PPN107",
+            "bad_sample": "8.00",
+            "sample_quality": "20.00",
+            "good_quality": "12.00",
+            "funneling_issue": "4.00"
+        },
+        {
+            "yearweek": "202304",
+            "site_id": "PPN108",
+            "bad_sample": "10.00",
+            "sample_quality": "18.00",
+            "good_quality": "15.00",
+            "funneling_issue": "5.00"
+        },
+        {
+            "yearweek": "202305",
+            "site_id": "PPN109",
+            "bad_sample": "3.00",
+            "sample_quality": "5.00",
+            "good_quality": "2.00",
+            "funneling_issue": "1.00"
+        },
+        {
+            "yearweek": "202306",
+            "site_id": "PPN110",
+            "bad_sample": "5.00",
+            "sample_quality": "6.00",
+            "good_quality": "4.00",
+            "funneling_issue": "2.00"
+        },
+        {
+            "yearweek": "202307",
+            "site_id": "PPN111",
+            "bad_sample": "12.00",
+            "sample_quality": "24.00",
+            "good_quality": "2.00",
+            "funneling_issue": "3.00"
+        },
+        {
+            "yearweek": "202308",
+            "site_id": "PPN112",
+            "bad_sample": "18.00",
+            "sample_quality": "22.00",
+            "good_quality": "4.00",
+            "funneling_issue": "5.00"
+        },
+        {
+            "yearweek": "202309",
+            "site_id": "PPN113",
+            "bad_sample": "7.00",
+            "sample_quality": "19.00",
+            "good_quality": "13.00",
+            "funneling_issue": "3.00"
+        },
+        {
+            "yearweek": "202310",
+            "site_id": "PPN114",
+            "bad_sample": "9.00",
+            "sample_quality": "17.00",
+            "good_quality": "14.00",
+            "funneling_issue": "4.00"
+        }
+    ],
+    "page": null,
+    "errors": []
+}

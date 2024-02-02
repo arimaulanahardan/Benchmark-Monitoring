@@ -1,0 +1,59 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "summary": {
+            "kpi": "good_quality",
+            "unit": "%",
+            "target": "6",
+            "ach": 96.07,
+            "deviation": -0.16
+        },
+        "category": [
+            202329,
+            202330,
+            202331,
+            202332
+        ],
+        "series": [
+            {
+                "name": "Telkomsel",
+                "data": [
+                    96.15,
+                    96.19,
+                    96.23,
+                    96.07
+                ]
+            },
+            {
+                "name": "XL",
+                "data": [
+                    92.89,
+                    92.88,
+                    92.91,
+                    92.75
+                ]
+            },
+            {
+                "name": "Indosat",
+                "data": [
+                    93.34,
+                    93.44,
+                    93.56,
+                    93.68
+                ]
+            },
+            {
+                "name": "Smartfren",
+                "data": [
+                    91.28,
+                    91.28,
+                    91.28,
+                    91.35
+                ]
+            }
+        ]
+    },
+    "page": null,
+    "errors": []
+}

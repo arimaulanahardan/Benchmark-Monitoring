@@ -1,0 +1,99 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "BALI NUSRA",
+            "operator": "Telkomsel",
+            "service_win": 6
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "CENTRAL JABOTABEK",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "EASTERN JABOTABEK",
+            "operator": "Telkomsel",
+            "service_win": 6
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "JABAR",
+            "operator": "Telkomsel",
+            "service_win": 6
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "JATENG-DIY",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "JATIM",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "KALIMANTAN",
+            "operator": "Telkomsel",
+            "service_win": 3
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "MALUKU DAN PAPUA",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "SULAWESI",
+            "operator": "Telkomsel",
+            "service_win": 2
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "SUMBAGSEL",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "SUMBAGTENG",
+            "operator": "Telkomsel",
+            "service_win": 6
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "SUMBAGUT",
+            "operator": "Telkomsel",
+            "service_win": 5
+        },
+        {
+            "yearweek": 202331,
+            "network_country_en": "Indonesia",
+            "location": "WESTERN JABOTABEK",
+            "operator": "Telkomsel",
+            "service_win": 6
+        }
+    ],
+    "page": null,
+    "errors": []
+}

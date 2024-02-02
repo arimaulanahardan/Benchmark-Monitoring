@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "success": true,
+  "data": [
+    {
+      "city": "ABAB",
+      "status_win": "lose",
+      "operator_win": "Telkomsel",
+      "sma_tsel": 92.48,
+      "upper_level_comp": 93.17,
+      "sample_quality_match": 264921,
+      "gap_sma_upper_level_comp": 0.69,
+      "target_sample_bad": 2746.02,
+      "total_target_clear_bad_sample": 1830.68
+    }
+  ],
+  "page": null,
+  "errors": []
+}

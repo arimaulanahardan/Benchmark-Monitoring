@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+      "total_city_win": 436,
+      "city_win_percent": 84.82,
+      "OKR_target": 55.0,
+      "regions": ["Bali-Nusra", "Sumbagut", "Kalimantan"]
+    }, 
+    "page": null,
+    "errors": []
+  }

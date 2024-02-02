@@ -1,0 +1,11 @@
+{
+   "status": 200,
+   "success": true,
+   "data": [
+      "nationwide",
+      "region",
+      "kabupaten"
+   ],
+   "page": null,
+   "errors": []
+}

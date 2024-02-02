@@ -1,0 +1,134 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "region": "SUMBAGUT",
+            "current_week": "14541.06",
+            "incr": "196.38",
+            "win_city": "14.00",
+            "win_city_percent": "25.00",
+            "win_to_lose": "1.00",
+            "lose_to_win": "2.00"
+        },
+        {
+            "region": "SUMBAGTENG",
+            "current_week": "14812.56",
+            "incr": "150.81",
+            "win_city": "5.00",
+            "win_city_percent": "13.16",
+            "win_to_lose": "0.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "SUMBAGSEL",
+            "current_week": "15273.41",
+            "incr": "241.55",
+            "win_city": "25.00",
+            "win_city_percent": "41.67",
+            "win_to_lose": "0.00",
+            "lose_to_win": "7.00"
+        },
+        {
+            "region": "CENTRAL JABOTABEK",
+            "current_week": "20067.79",
+            "incr": "197.57",
+            "win_city": "0.00",
+            "win_city_percent": "0.00",
+            "win_to_lose": "0.00",
+            "lose_to_win": "0.00"
+        },
+        {
+            "region": "EASTERN JABOTABEK",
+            "current_week": "20111.35",
+            "incr": "179.18",
+            "win_city": "4.00",
+            "win_city_percent": "44.44",
+            "win_to_lose": "0.00",
+            "lose_to_win": "0.00"
+        },
+        {
+            "region": "WESTERN JABOTABEK",
+            "current_week": "19457.61",
+            "incr": "198.73",
+            "win_city": "4.00",
+            "win_city_percent": "50.00",
+            "win_to_lose": "0.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "JABAR",
+            "current_week": "16962.89",
+            "incr": "157.51",
+            "win_city": "13.00",
+            "win_city_percent": "72.22",
+            "win_to_lose": "0.00",
+            "lose_to_win": "0.00"
+        },
+        {
+            "region": "JATENG-DIY",
+            "current_week": "15909.81",
+            "incr": "190.99",
+            "win_city": "17.00",
+            "win_city_percent": "42.50",
+            "win_to_lose": "1.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "JATIM",
+            "current_week": "16028.49",
+            "incr": "159.54",
+            "win_city": "4.00",
+            "win_city_percent": "10.53",
+            "win_to_lose": "0.00",
+            "lose_to_win": "0.00"
+        },
+        {
+            "region": "BALI NUSRA",
+            "current_week": "13363.64",
+            "incr": "-250.78",
+            "win_city": "14.00",
+            "win_city_percent": "34.15",
+            "win_to_lose": "2.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "KALIMANTAN",
+            "current_week": "14368.87",
+            "incr": "-92.45",
+            "win_city": "17.00",
+            "win_city_percent": "30.36",
+            "win_to_lose": "2.00",
+            "lose_to_win": "4.00"
+        },
+        {
+            "region": "SULAWESI",
+            "current_week": "13903.38",
+            "incr": "-25.61",
+            "win_city": "55.00",
+            "win_city_percent": "60.44",
+            "win_to_lose": "4.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "MALUKU DAN PAPUA",
+            "current_week": "11396.97",
+            "incr": "0",
+            "win_city": "51.00",
+            "win_city_percent": "96.23",
+            "win_to_lose": "0.00",
+            "lose_to_win": "1.00"
+        },
+        {
+            "region": "NATIONWIDE",
+            "current_week": "14662.12",
+            "incr": "139.49",
+            "win_city": "223.00",
+            "win_city_percent": "43.39",
+            "win_to_lose": "10.00",
+            "lose_to_win": "19.00"
+        }
+    ],
+    "errors": [],
+    "page": null
+}

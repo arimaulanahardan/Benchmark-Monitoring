@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+       "Indosat Ooredoo + 3",
+       "Smartfren",
+       "Telkomsel",
+       "XL"
+    ],
+    "page": null,
+    "errors": []
+ }

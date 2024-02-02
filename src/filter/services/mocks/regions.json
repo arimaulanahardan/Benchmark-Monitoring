@@ -1,0 +1,22 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        "BALI NUSRA",
+        "Sumbagut",
+        "CENTRAL JABOTABEK",
+        "EASTERN JABOTABEK",
+        "JABAR",
+        "JATENG-DIY",
+        "JATIM",
+        "KALIMANTAN",
+        "MALUKU DAN PAPUA",
+        "SULAWESI",
+        "SUMBAGSEL",
+        "SUMBAGTENG",
+        "SUMBAGUT",
+        "WESTERN JABOTABEK"
+    ],
+    "page": null,
+    "errors": []
+}

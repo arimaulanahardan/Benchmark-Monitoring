@@ -1,0 +1,63 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "category": [
+                "BALI NUSRA",
+                "CENTRAL JABOTABEK",
+                "EASTERN JABOTABEK",
+                "JABAR",
+                "JATENG-DIY",
+                "JATIM",
+                "KALIMANTAN",
+                "MALUKU DAN PAPUA",
+                "SULAWESI",
+                "SUMBAGSEL",
+                "SUMBAGTENG",
+                "SUMBAGUT",
+                "WESTERN JABOTABEK"
+            ],
+            "series": [
+                {
+                    "name": "service win",
+                    "data": [
+                        2,
+                        5,
+                        6,
+                        6,
+                        5,
+                        5,
+                        3,
+                        5,
+                        2,
+                        5,
+                        6,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "name": "service Lose",
+                    "data": [
+                        6,
+                        3,
+                        2,
+                        2,
+                        3,
+                        3,
+                        5,
+                        3,
+                        6,
+                        3,
+                        2,
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    ],
+    "page": null,
+    "errors": []
+}

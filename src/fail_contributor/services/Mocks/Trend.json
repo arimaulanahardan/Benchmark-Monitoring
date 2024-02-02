@@ -1,0 +1,123 @@
+{
+  "code": 200,
+  "success": true,
+  "data": {
+    "category": [
+      "202315",
+      "202316",
+      "202317",
+      "202318",
+      "202319",
+      "202320"
+    ],
+    "series": [
+      {
+        "name": "ctrb_game_dltput_fail",
+        "alias": "dltput",
+        "color": "#00FF00",
+        "data": [
+          1333,
+          1332,
+          1436,
+          1237,
+          1821,
+          1830
+        ],
+        "percentage": [
+          11.576,
+          23.398,
+          12.827,
+          6.245,
+          11.621,
+          10.936
+        ]
+      },
+      {
+        "name": "ctrb_game_ultput_fail",
+        "alias": "ultput",
+        "color": "#FF0000",
+        "data": [
+          null,
+          1482,
+          1336,
+          1257,
+          1731,
+          1350
+        ],
+        "percentage": [
+          null,
+          22.398,
+          15.827,
+          9.245,
+          18.621,
+          12.936
+        ]
+      },
+      {
+        "name": "ctrb_game_latency_fail",
+        "alias": "latency",
+        "color": "#FF30FF",
+        "data": [
+          1343,
+          1382,
+          1436,
+          1257,
+          1831,
+          1850
+        ],
+        "percentage": [
+          13.576,
+          26.398,
+          10.827,
+          44.245,
+          56.621,
+          15.936
+        ]
+      },
+      {
+        "name": "ctrb_game_jitter_fail",
+        "alias": "jitter",
+        "color": "#00FFFF",
+        "data": [
+          87,
+          82,
+          96,
+          75,
+          85,
+          91
+        ],
+        "percentage": [
+          10.576,
+          22.398,
+          15.827,
+          9.245,
+          18.621,
+          19.936
+        ]
+      },
+      {
+        "name": "ctrb_game_ploss_fail",
+        "alias": "ploss",
+        "color": "#3E8BFF",
+        "data": [
+          2685,
+          2990,
+          3094,
+          2649,
+          4283,
+          3913
+        ],
+        "percentage": [
+          10.576,
+          22.398,
+          15.827,
+          9.245,
+          18.621,
+          16.936
+        ]
+      }
+    ]
+  },
+  "page": null,
+  "errors": []
+}

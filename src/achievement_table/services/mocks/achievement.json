@@ -1,0 +1,134 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "region": "SUMBAGUT",
+            "win_city_prev": "28",
+            "win_city_prev_percent": "50.00",
+            "win_city": "28",
+            "win_city_percent": "50.00",
+            "Q1_target_city": 27,
+            "achievement": "103.70"
+        },
+        {
+            "region": "SUMBAGTENG",
+            "win_city_prev": "19",
+            "win_city_prev_percent": "50.00",
+            "win_city": "23",
+            "win_city_percent": "60.53",
+            "Q1_target_city": 20,
+            "achievement": "115.00"
+        },
+        {
+            "region": "SUMBAGSEL",
+            "win_city_prev": "49",
+            "win_city_prev_percent": "81.67",
+            "win_city": "46",
+            "win_city_percent": "76.67",
+            "Q1_target_city": 44,
+            "achievement": "104.55"
+        },
+        {
+            "region": "CENTRAL JABOTABEK",
+            "win_city_prev": "6",
+            "win_city_prev_percent": "100.00",
+            "win_city": "6",
+            "win_city_percent": "100.00",
+            "Q1_target_city": 6,
+            "achievement": "100.00"
+        },
+        {
+            "region": "EASTERN JABOTABEK",
+            "win_city_prev": "9",
+            "win_city_prev_percent": "100.00",
+            "win_city": "9",
+            "win_city_percent": "100.00",
+            "Q1_target_city": 9,
+            "achievement": "100.00"
+        },
+        {
+            "region": "WESTERN JABOTABEK",
+            "win_city_prev": "8",
+            "win_city_prev_percent": "100.00",
+            "win_city": "8",
+            "win_city_percent": "100.00",
+            "Q1_target_city": 8,
+            "achievement": "100.00"
+        },
+        {
+            "region": "JABAR",
+            "win_city_prev": "16",
+            "win_city_prev_percent": "88.89",
+            "win_city": "16",
+            "win_city_percent": "88.89",
+            "Q1_target_city": 16,
+            "achievement": "100.00"
+        },
+        {
+            "region": "JATENG-DIY",
+            "win_city_prev": "30",
+            "win_city_prev_percent": "75.00",
+            "win_city": "30",
+            "win_city_percent": "75.00",
+            "Q1_target_city": 33,
+            "achievement": "90.91"
+        },
+        {
+            "region": "JATIM",
+            "win_city_prev": "31",
+            "win_city_prev_percent": "81.58",
+            "win_city": "30",
+            "win_city_percent": "78.95",
+            "Q1_target_city": 32,
+            "achievement": "93.75"
+        },
+        {
+            "region": "BALI NUSRA",
+            "win_city_prev": "23",
+            "win_city_prev_percent": "56.10",
+            "win_city": "20",
+            "win_city_percent": "48.78",
+            "Q1_target_city": 24,
+            "achievement": "83.33"
+        },
+        {
+            "region": "KALIMANTAN",
+            "win_city_prev": "35",
+            "win_city_prev_percent": "62.50",
+            "win_city": "33",
+            "win_city_percent": "58.93",
+            "Q1_target_city": 40,
+            "achievement": "82.50"
+        },
+        {
+            "region": "SULAWESI",
+            "win_city_prev": "70",
+            "win_city_prev_percent": "76.92",
+            "win_city": "72",
+            "win_city_percent": "79.12",
+            "Q1_target_city": 69,
+            "achievement": "104.35"
+        },
+        {
+            "region": "MALUKU DAN PAPUA",
+            "win_city_prev": "53",
+            "win_city_prev_percent": "100.00",
+            "win_city": "53",
+            "win_city_percent": "100.00",
+            "Q1_target_city": 53,
+            "achievement": "100.00"
+        },
+        {
+            "region": "NATIONWIDE",
+            "win_city_prev": "377",
+            "win_city_prev_percent": "73.35",
+            "win_city": "374",
+            "win_city_percent": "72.76",
+            "Q1_target_city": 381,
+            "achievement": "98.16"
+        }
+    ],
+    "errors": [],
+    "page": null
+}
