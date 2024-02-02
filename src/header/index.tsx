@@ -34,21 +34,21 @@ const Header: React.FC<HeaderProps> = () => {
   const headerText = useMemo(() => {
     switch (location.pathname) {
       case "/tutela/summary":
-        return "Service Experience Benchmarking";
+        return "Monitoring Benchmark";
       case "/tutela/kpi-details":
-        return "KPI Details";
+        return "Performa Details";
       case "/tutela/fail-contributor":
-        return "Tutela Fail Contributor";
+        return "Fail Performence";
       case "/tutela/day-monitoring":
-        return "Tutela Day Monitoring";
+        return "Daily Performance";
       case "/tutela/week-monitoring":
-        return "Tutela Week Monitoring";
+        return "Week Performance";
       case "/tutela/month-monitoring":
-        return "Tutela Month Monitoring";
+        return "Month Performance";
       case "/tutela/flip-flop":
         return "Flip Flop Winning Cities";
       default:
-        return "Service Experience Benchmarking";
+        return "Monitoring Benchmark";
     }
   }, [location.pathname]);
 
@@ -75,7 +75,7 @@ const Header: React.FC<HeaderProps> = () => {
 
   return (
     <>
-      <header className={`header md:w-full py-6 flex bg-red-600 justify-between items-center rounded-lg bg-opacity-50 backdrop-blur-md bg-opacity-25 border border-white p-4 mb-4 ${isVisible ? "fixed top-0 left-0 right-0 z-10" : ""
+      <header className={`header md:w-full py-6 flex bg-red-600 justify-between items-center rounded-lg  backdrop-blur-md bg-opacity-25 border border-white p-4 mb-4 ${isVisible ? "fixed top-0 left-0 right-0 z-10" : ""
         }`}>
         {isMobileMode && (
           <button onClick={toggleSidebar} className="p-2 rounded hover:bg-gray-700">
@@ -102,7 +102,7 @@ const Header: React.FC<HeaderProps> = () => {
         </div>
       </header>
       {isSidebarVisible || isMobileMode && (
-        <div className="fixed top-1 left-1 h-full w-64 z-50 transition-all transform rounded-lg bg-opacity-50 backdrop-blur-md bg-opacity-25 border border-white p-4">
+        <div className="fixed top-1 left-1 h-full w-64 z-50 transition-all transform rounded-lg  backdrop-blur-md bg-opacity-25 border border-white p-4">
           <button className="p-2 rounded hover:bg-gray-700 mb-8">
             <BiArrowFromRight onClick={toggleSidebar} className=" cursor-pointer" size={24} />
           </button>
